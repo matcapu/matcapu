@@ -9,6 +9,8 @@ Thesis and projects:
   <li><a href="MastersThesis.pdf" class="image fit">Master's thesis</a></li>
   <li><a href="BachelorsThesis.pdf" class="image fit">Bachelor's thesis</a></li>
   <li><a href="GenerazioneAmpiezze.nb" class="image fit">GenerazioneAmpiezze.nb</a>: Mathematica notebook generating amplitudes of arbitrary processes in scalar QED</li>
+  <li><a href="QCD%20splitting%20function%20calculation.pdf" class="image fit">Calculation</a> of QCD splitting function with an introduction to partonic DIS</li>
+
 </ul>
 
 Older manuscripts and projects (in italian):
