@@ -1,4 +1,4 @@
-### Mattia Capuano personal homepage
+### Mattia Capuano
 
 Contact: hkmlmat@gmail.com
 
