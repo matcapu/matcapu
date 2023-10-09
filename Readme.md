@@ -12,7 +12,7 @@ Thesis and projects:
   <li><a href="QCD%20splitting%20function%20calculation.pdf" class="image fit">Calculation</a> of the QCD splitting function with an introduction to partonic DIS;</li>
   <li>Notes and some detailed calculations on the <a href="The_optical_theorem.pdf" class="image fit">optical theorem.</a></li>
   <li><a href="Solutions_of_Scattering_Amplitudes.pdf">Personal solutions</a> to <i>Scattering amplitudes in Quantum Field Theory</i> by S. Badger, J. Henn, J. Plefka and S. Zoia (work in progress).</li>
-  <li>A geometrical <a href="The_optimal_hours_to_tilt_sun_umbrellas__a_geometry_problem.pdf" class="image fit">divertissement</a>.</li>
+  <li>A <a href="The_optimal_hours_to_tilt_sun_umbrellas__a_geometry_problem.pdf" class="image fit">geometrical divertissement</a>.</li>
 
 </ul>
 
