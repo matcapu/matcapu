@@ -11,7 +11,8 @@ Thesis and projects:
   <li>A <a href="https://github.com/mtcapuano/PlusDistributionsVariableChange" class= "image fit">Mathematica notebook</a> to change variables of plus distributions;</li>
   <li><a href="QCD%20splitting%20function%20calculation.pdf" class="image fit">Calculation</a> of the QCD splitting function with an introduction to partonic DIS;</li>
   <li>Notes and some detailed calculations on the <a href="The_optical_theorem.pdf" class="image fit">optical theorem.</a></li>
-  <li>A <a href="The_optimal_hours_to_tilt_sun_umbrellas__a_geometry_problem.pdf" class="image fit">geometry problem</a>.</li>
+  <li>Personal solutions to *Scattering amplitudes in Quantum Field Theory* by S. Badger, J. Henn, J. Plefka and S. Zoia.</li>
+  <li>A geometrical <a href="The_optimal_hours_to_tilt_sun_umbrellas__a_geometry_problem.pdf" class="image fit">divertissement</a>.</li>
 
 </ul>
 
