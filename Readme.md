@@ -5,7 +5,7 @@ Contact: hkmlmat@gmail.com
 Thesis and projects:
 
 <ul>
-  <li><a href="MastersThesis.pdf" class="image fit">Master's thesis</a>, a technical <a href="Summary_of_MSc.pdf">summary</a> and an <a href="Parerga_e_paralipomena.pdf">addendum</a> (in Italian) to the thesis that contains updates on the research (last updated: 18/10/2023);</li>
+  <li><a href="MastersThesis.pdf" class="image fit">Master's thesis</a>, a technical <a href="Summary_of_MSc.pdf">summary</a> and an <a href="Parerga_e_paralipomena.pdf">addendum</a> (in Italian) to the thesis that contains updates on the research (last updated: 20/10/2023);</li>
   <li><a href="BachelorThesis.pdf" class="image fit">Bachelor's thesis</a>;</li>
   <li>A <a href="https://github.com/mtcapuano/ScalarQEDAmplitudes" class="image fit">Mathematica notebook</a> to generate tree amplitudes of any process in scalar QED and all the possible 1-loop diagrams;</li>
   <li>A <a href="https://github.com/mtcapuano/PlusDistributionsVariableChange" class= "image fit">Mathematica notebook</a> to change variables of plus distributions;</li>
