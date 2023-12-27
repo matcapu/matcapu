@@ -5,7 +5,7 @@ Contact: hkmlmat@gmail.com
 Thesis and projects:
 
 <ul>
-  <li><a href="MastersThesis.pdf" class="image fit">Master's thesis</a>, a technical <a href="Summary_of_MSc.pdf">summary</a>, an <a href="Parerga_e_paralipomena.pdf">addendum</a> to the thesis that contains updates on the research with the computation of the Higgs boson rapidity distribution at NNLO in the generalized threshold limit and related <a href="https://github.com/mtcapuano/HiggsRapidityNNLO">Mathematica Notebook</a> (last updated: 4/12/2023);</li>
+  <li><a href="MastersThesis.pdf" class="image fit">Master's thesis</a>, a technical <a href="Summary_of_MSc.pdf">summary</a>, an <a href="Parerga_e_paralipomena.pdf">addendum</a> to the thesis that contains updates on the research with the computation of the Higgs boson rapidity distribution at NNLO in the generalized threshold limit and related <a href="https://github.com/mtcapuano/HiggsRapidityNNLO">Mathematica Notebook</a> (last updated: 27/12/2023);</li>
   <li><a href="BachelorThesis.pdf" class="image fit">Bachelor's thesis</a> on QFT in curved spacetime;</li>
   <li>A <a href="https://github.com/mtcapuano/ScalarQEDAmplitudes" class="image fit">Mathematica notebook</a> to generate tree amplitudes of any process in scalar QED and all the possible 1-loop diagrams;</li>
   <li>A <a href="https://github.com/mtcapuano/PlusDistributionsVariableChange" class= "image fit">Mathematica notebook</a> to change variables of plus distributions;</li>
