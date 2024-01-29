@@ -9,7 +9,7 @@ Thesis and projects:
   <li><a href="BachelorThesis.pdf" class="image fit">Bachelor's thesis</a> on QFT in curved spacetime;</li>
   <li>A <a href="https://github.com/mtcapuano/ScalarQEDAmplitudes" class="image fit">Mathematica notebook</a> to generate tree amplitudes of any process in scalar QED and all the possible 1-loop diagrams;</li>
   <li>A <a href="https://github.com/mtcapuano/PlusDistributionsVariableChange" class= "image fit">Mathematica notebook</a> to change variables of plus distributions;</li>
-  <li><a href="Solutions_to_Scattering_Amplitudes.pdf">Personal solutions</a> to <i>Scattering amplitudes in Quantum Field Theory</i> by S. Badger, J. Henn, J. Plefka and S. Zoia, with related <a href="https://github.com/mtcapuano/SolsTOscatteringAmpl">Mathematica notebooks</a> (last updated: 26/01/2024);</li>
+  <li><a href="Solutions_to_Scattering_Amplitudes.pdf">Personal solutions</a> to <i>Scattering amplitudes in Quantum Field Theory</i> by S. Badger, J. Henn, J. Plefka and S. Zoia, with related <a href="https://github.com/mtcapuano/SolsTOscatteringAmpl">Mathematica notebooks</a> (last updated: 29/01/2024);</li>
   <li><a href="QCD%20splitting%20function%20calculation.pdf" class="image fit">Calculation</a> of the QCD splitting function with an introduction to partonic DIS;</li>
   <li><a href="Notes_on_special_functions.pdf">Notes</a> on special functions;</li>
   <li>Notes and some detailed calculations on the <a href="The_optical_theorem.pdf" class="image fit">optical theorem</a>;</li>
