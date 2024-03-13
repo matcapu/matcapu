@@ -5,11 +5,11 @@ Contact: hkmlmat@gmail.com
 Thesis and projects:
 
 <ul>
-  <li><a href="MastersThesis.pdf" class="image fit">Master's thesis</a>, a technical <a href="Summary_of_MSc.pdf">summary</a>, an <a href="Parerga_e_paralipomena.pdf">addendum</a> to the thesis that contains updates on the research with the computation of the Higgs boson rapidity distribution at NNLO in the generalized threshold limit and related <a href="https://github.com/mtcapuano/HiggsRapidityNNLO">Mathematica Notebook</a> (last updated: 27/12/2023);</li>
+  <li><a href="MastersThesis.pdf" class="image fit">Master's thesis</a>, a technical <a href="Summary_of_MSc.pdf">summary</a>, an <a href="Parerga_e_paralipomena.pdf">addendum</a> to the thesis that contains updates on the research with the computation of the Higgs boson rapidity distribution at NNLO in the generalized threshold limit and related <a href="https://github.com/mtcapuano/HiggsRapidityNNLO">Mathematica Notebook</a>;</li>
   <li><a href="BachelorThesis.pdf" class="image fit">Bachelor's thesis</a> on QFT in curved spacetime;</li>
   <li>A <a href="https://github.com/mtcapuano/ScalarQEDAmplitudes" class="image fit">Mathematica notebook</a> to generate tree amplitudes of any process in scalar QED and all the possible 1-loop diagrams;</li>
   <li>A <a href="https://github.com/mtcapuano/PlusDistributionsVariableChange" class= "image fit">Mathematica notebook</a> to change variables of plus distributions;</li>
-  <li><a href="Solutions_to_Scattering_Amplitudes.pdf">Personal solutions</a> to <i>Scattering amplitudes in Quantum Field Theory</i> by S. Badger, J. Henn, J. Plefka and S. Zoia, with related <a href="https://github.com/mtcapuano/SolsTOscatteringAmpl">Mathematica notebooks</a> (last updated: 01/02/2024);</li>
+  <li><a href="Solutions_to_Scattering_Amplitudes.pdf">Personal solutions</a> to <i>Scattering amplitudes in Quantum Field Theory</i> by S. Badger, J. Henn, J. Plefka and S. Zoia, with related <a href="https://github.com/mtcapuano/SolsTOscatteringAmpl">Mathematica notebooks</a>;</li>
   <li><a href="QCD%20splitting%20function%20calculation.pdf" class="image fit">Calculation</a> of the QCD splitting function with an introduction to partonic DIS;</li>
   <li><a href="Notes_on_special_functions.pdf">Notes</a> on special functions;</li>
   <li>Notes and some detailed calculations on the <a href="The_optical_theorem.pdf" class="image fit">optical theorem</a>;</li>
