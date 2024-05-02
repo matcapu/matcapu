@@ -1,6 +1,6 @@
 ### Mattia Capuano
 
-Contact: hkmlmat@gmail.com
+Contact: hkmlmat at gmail.com
 
 Thesis and projects:
 
